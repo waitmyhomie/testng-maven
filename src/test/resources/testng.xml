@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite1" verbose="2" parallel="classes" thread-count="2">
+    <test name="JustTestThis">
+        <classes>
+            <class name="test.OrderTests"/>
+            <class name="test.AccountTests"/>
+            <class name="test.SearchTest"/>
+        </classes>
+    </test>
+</suite>
