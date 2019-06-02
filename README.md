@@ -2,7 +2,7 @@
 Test-run instructions:
 
 Clone the project with command:
-git clone
+git clone https://github.com/waitmyhomie/testng-maven.git
 
 Setup your test environment(install MAVEN, JAVA, download drivers and set them to the system variables)
 
